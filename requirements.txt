@@ -1,0 +1,7 @@
+streamlit
+pandas
+pycaret
+plotly
+seaborn
+matplotlib
+faker
