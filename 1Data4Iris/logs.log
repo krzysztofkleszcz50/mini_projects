@@ -1,0 +1,26 @@
+2024-12-27 10:04:35,327:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-27 10:04:35,327:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-27 10:04:35,327:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-27 10:04:35,328:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-27 10:04:44,332:INFO:Initializing load_model()
+2024-12-27 10:04:44,332:INFO:load_model(model_name=iris/iris_classification_pipeline, platform=None, authentication=None, verbose=True)
+2024-12-27 10:04:50,825:INFO:Initializing load_model()
+2024-12-27 10:04:50,826:INFO:load_model(model_name=iris/iris_classification_pipeline, platform=None, authentication=None, verbose=True)
+2024-12-27 10:06:14,872:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-27 10:06:14,872:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-27 10:06:14,872:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-27 10:06:14,872:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-12-27 10:06:19,241:INFO:Initializing load_model()
+2024-12-27 10:06:19,242:INFO:load_model(model_name=iris/iris_classification_pipeline, platform=None, authentication=None, verbose=True)
+2024-12-27 10:06:24,163:INFO:Initializing load_model()
+2024-12-27 10:06:24,164:INFO:load_model(model_name=iris/iris_classification_pipeline, platform=None, authentication=None, verbose=True)
+2024-12-27 10:07:29,284:INFO:Initializing load_model()
+2024-12-27 10:07:29,285:INFO:load_model(model_name=iris_classification_pipeline, platform=None, authentication=None, verbose=True)
