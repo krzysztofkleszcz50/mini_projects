@@ -27,7 +27,7 @@ if mode == 'Introduction':
 
 if mode == 'Machine learning':
      
-    MODEL_NAME = 'iris_classification_pipeline'
+    MODEL_NAME = '1Data4Iris/iris_classification_pipeline'
 
     @st.cache_data
     def load_classification_model():
