@@ -78,14 +78,14 @@ if mode == 'Machine learning':
     with tab4:
         st.title('Matrix 💎')
 
-        st.image('matrix.png', caption='Matrix')
+        st.image('1Data4Iris/matrix.png', caption='Matrix')
 
 if mode == 'Data analysis':
      
     st.title("Iris Analysis 📚")
 
     # Data loading
-    df = pd.read_csv('1Data4Iris\25__iris.csv', sep=",")
+    df = pd.read_csv('1Data4Iris/25__iris.csv', sep=",")
     df.columns = ('długość kielicha', 'szerokość kielicha', 'długość płatka', 'szerokość płatka', 'klasa')
         
     with st.expander("Analysis summary"):
@@ -144,7 +144,7 @@ if mode == 'Presentation':
 
     with tab1:
         st.title('Iris! - Presentation 💻')
-        presentation_path = "iris_presentation.pdf"
+        presentation_path = "1Data4Iris/iris_presentation.pdf"
 
         try:
             with open(presentation_path, "rb") as file:
@@ -161,7 +161,7 @@ if mode == 'Presentation':
 
         with tab2:
             st.title('Iris! - Article 📢')
-            presentation_path = "iris_pdf.pdf"
+            presentation_path = "1Data4Iris/iris_pdf.pdf"
 
             try:
                 with open(presentation_path, "rb") as file:
@@ -180,7 +180,7 @@ if mode == 'Presentation':
              
             st.title('Iris! - Notebook ⛳')
 
-            notebook_path = "iris.ipynb"
+            notebook_path = "1Data4Iris/iris.ipynb"
 
             with open(notebook_path, 'r', encoding='utf-8') as file:
                 notebook_content = file.read()
