@@ -73,7 +73,7 @@ if mode == 'Machine learning':
     with tab3:    
         st.title('Key feature 🔑')
 
-        st.image('key_feature.png', caption='key_feauture')
+        st.image('1Data4Iris/key_feature.png', caption='key_feauture')
 
     with tab4:
         st.title('Matrix 💎')
