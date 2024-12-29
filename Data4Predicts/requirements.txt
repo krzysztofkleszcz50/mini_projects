@@ -2,4 +2,3 @@ streamlit
 pycaret
 pandas
 faker 
-random
