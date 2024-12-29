@@ -85,7 +85,7 @@ if mode == 'Data analysis':
     st.title("Iris Analysis 📚")
 
     # Data loading
-    df = pd.read_csv('25__iris.csv', sep=",")
+    df = pd.read_csv('1Data4Iris\25__iris.csv', sep=",")
     df.columns = ('długość kielicha', 'szerokość kielicha', 'długość płatka', 'szerokość płatka', 'klasa')
         
     with st.expander("Analysis summary"):
